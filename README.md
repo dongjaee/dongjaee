@@ -5,6 +5,6 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjaee)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjaee)
 
 
